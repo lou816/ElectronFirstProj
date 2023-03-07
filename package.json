@@ -1,0 +1,23 @@
+{
+  "name": "electrontoturial",
+  "version": "1.0.0",
+  "description": "first electron application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lou816/ElectronFirstProj.git"
+  },
+  "author": "lu_chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lou816/ElectronFirstProj/issues"
+  },
+  "homepage": "https://github.com/lou816/ElectronFirstProj#readme",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
